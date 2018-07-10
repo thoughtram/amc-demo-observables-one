@@ -1,0 +1,9 @@
+{
+  "name": "typescript-a77vbu",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/typescript-a77vbu",
+  "dependencies": {
+    "rxjs": "6.2.1"
+  },
+  "version": "1.0.0"
+}
